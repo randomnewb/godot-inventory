@@ -1,0 +1,17 @@
+[gd_scene load_steps=2 format=3 uid="uid://c7cjki6juu5mo"]
+
+[ext_resource type="Texture2D" uid="uid://bfvpoq62pwtay" path="res://Inventory/item_slot.png" id="1_sp55m"]
+
+[node name="InventorySlot" type="TextureRect"]
+texture = ExtResource("1_sp55m")
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+offset_left = -1.0
+offset_right = 1.0
+offset_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2

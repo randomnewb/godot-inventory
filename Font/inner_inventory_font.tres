@@ -1,0 +1,8 @@
+[gd_resource type="LabelSettings" load_steps=2 format=3 uid="uid://dts7buhmhvm5p"]
+
+[ext_resource type="FontFile" uid="uid://bshlxuym4utfw" path="res://Font/Arcadepix Plus.ttf" id="1_qdrow"]
+
+[resource]
+font = ExtResource("1_qdrow")
+font_size = 12
+font_color = Color(0.427451, 0.270588, 0.113725, 1)

@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://gmhsnragkcew"]
+
+[ext_resource type="Texture2D" uid="uid://dukvjsnvb8vv6" path="res://Items/Sprites/tree_icon.png" id="1_ce6va"]
+
+[node name="Item" type="TextureRect"]
+texture = ExtResource("1_ce6va")
